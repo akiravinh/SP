@@ -1,0 +1,2 @@
+Ứng dụng flutter gốc được tạo ra từ bàn tay ông Vinh và VScode
+Recommend : sử dụng bản Standard_Basic hoặc Standard_Pro
